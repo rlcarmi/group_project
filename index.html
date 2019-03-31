@@ -75,7 +75,12 @@
         <form action="http://example.com/upload.png" method="post">
         <p> Upload your image in png format </p>
         <input type="file" name="user image"/> <br>
-        <input type="submit" name="Upload"/>  
+        <input type="submit" class="btn btn-danger" readonly="readonly" data-toggle="modal" data-target=".bs-example-modal-lg" value="Post" />
+          <div id="myModal" class="modal">
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p>Thank you for submitting your pic! It will take up to 24hrs for the image to be cleared by our team.</p>
+          </div>
        <br> <br>
      </div>
     </p>
