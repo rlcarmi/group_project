@@ -1,9 +1,7 @@
 body {
   padding-top: 5rem;
   background-color: rgb(31, 169, 255);
-  margin: 0px;
-  
-p {  
+  margin: 0px; 
   text-align: center;
   font-family: courier;
 }
