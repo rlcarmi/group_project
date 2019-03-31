@@ -3,7 +3,7 @@ body {
   background-color: rgb(31, 169, 255);
   margin: 0px;
   
-p {
+.upload {
   text-align: center;
   font-family: courier;
   border-style: dashed;
