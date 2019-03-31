@@ -5,3 +5,7 @@ body {
   text-align: center;
   font-family: courier;
 }
+
+w3 panel {
+  outline: 5px dashed white;
+}
