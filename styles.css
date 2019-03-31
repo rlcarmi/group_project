@@ -1,11 +1,9 @@
-body {
+p.one {
   padding-top: 5rem;
   background-color: rgb(31, 169, 255);
   margin: 0px;
   text-align: center;
   font-family: courier;
-}
-
-w3 panel {
-  outline: 5px dashed white;
+  border-style: dashed;
+  border-color: white;
 }
