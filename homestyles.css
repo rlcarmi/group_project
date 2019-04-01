@@ -43,3 +43,14 @@ body {
   text-decoration: none;
   cursor: pointer;
 }
+
+/* The Map */
+.overlay {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 600px;
+  top: 600px;
+  margin-top: -600px;
+  z-index: 1;
+}
